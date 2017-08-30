@@ -1,4 +1,6 @@
 # Coding-in-the-Context-of-New-Media-Art
+http://www.ccsf.edu/en/educational-programs/continuing-education/Fall17/Art/listofclasses2/Coding.html
+
 The class will introduce basic coding and technology skills encouraging students to explore these new skills in their personal work. Topics covered include the importance of coding within the art context and perspectives from artists incorporating arts and technology.
 
 
