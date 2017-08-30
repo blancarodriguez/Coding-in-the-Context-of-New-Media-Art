@@ -5,7 +5,11 @@ Hi There!
 Introduction to Coding in the Context of New Media Art is an open workshop in art and technology at CCSF, in San Francisco.
 http://www.ccsf.edu/en/educational-programs/continuing-education/Fall17/Art/listofclasses2/Coding.html
 
+<<<<<<< Updated upstream
 We'll make a series of projects that explore creative and interesting applications of custom technology. Each week has its own focus (overviewed below). Look in the folders for more details, examples and source code.
+=======
+Introduction to Code-Based Art is an open workshop in art and technology at CCSF, in San Francisco. 
+>>>>>>> Stashed changes
 
 Week 1
 
@@ -17,7 +21,12 @@ Week 2:
 TECHNICAL: Responsive drawings in Processing. 
 CONCEPTS: What is interactivity? How can it show us something about ourselves?
 
+<<<<<<< Updated upstream
 Week 3:
+=======
+#### Week 4: 
+TECHNICAL: Exploring motors and sensors.  <br>CONCEPTS: Now we can do a lot of exciting stuff. How can we use these technologies to illustrate a concept? How can we move beyond the wow factor, and use digital art to ask big questions?
+>>>>>>> Stashed changes
 
 TECHNICAL: Beyond the screen/ introducting to basic circuit building and Arduino. 
 CONCEPTS: How to explore/reveal relationships between humans and machines?
@@ -34,4 +43,6 @@ CONCEPTS: Now we can do a lot of exciting stuff. How can we use these technologi
 #### ZKM http://zkm.de/en
 #### TRANSITIOMX http://transitiomx.net
 #### EYEO FESTIVAL http://eyeofestival.com/
+#### NEAT http://neat.thecjm.org/directors-foreward/
+#### OpenFrameworks http://openframeworks.cc/gallery/
 
