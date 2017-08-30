@@ -1,5 +1,5 @@
-# code-based-art
-
+# Coding-in-the-Context-of-New-Media-art
+The class will introduce basic coding and technology skills encouraging students to explore these new skills in their personal work. Topics covered include the importance of coding within the art context and perspectives from artists incorporating arts and technology.Beginning each class we will examine different artists working and using robotics, physical interfaces, interactivity, electronics, data visualization and algorithmic drawing. We will use Processing IDE and Arduino among other technologies. Each class includes time to learn and practice coding and electronics skills with individualized attention. By the end of the class, students are encouraged to create a personal or collaborative project. No previous experience is required! The class main level is for beginners but all skill/experience levels are welcome. All participants should bring a laptop with Processing installed (free software: https://processing.org/). All other materials are included.
 Hi There! 
 
 
