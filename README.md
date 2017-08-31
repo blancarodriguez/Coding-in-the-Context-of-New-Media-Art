@@ -3,7 +3,7 @@
 Hi There! 
 
 
-Introduction to Code-Based Art is an open workshop in art and technology at CCSF, in San Francisco. 
+Coding in the Context of New Media Art is an open workshop in art and technology at CCSF, in San Francisco. 
 http://www.ccsf.edu/en/educational-programs/continuing-education/Fall17/Art/listofclasses2/Coding.html
 
 We'll make a series of projects that explore creative and interesting applications of custom technology. 
