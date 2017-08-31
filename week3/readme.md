@@ -1,4 +1,4 @@
-# code-based art
+# Coding-in-the-Context-of-New-Media-Art
 
 ## Week 3: Getting out of the screen: Arduino and basic electronics
 
