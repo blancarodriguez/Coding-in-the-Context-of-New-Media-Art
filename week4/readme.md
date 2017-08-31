@@ -1,4 +1,4 @@
-# code-based art
+# Coding-in-the-Context-of-New-Media-Art
 
 ## Week 4: Motion Sensors and Servo Motors
 
@@ -16,7 +16,7 @@
  * The[Adafruit Motor Selection Guide] (https://learn.adafruit.com/adafruit-motor-selection-guide/powering-your-motors?view=all) will help you to understand which motors can do what things.
 
 
-* Work on a project to finish and share in class on week 5!
+* Work on a project
 
 
 ## Artists/Projects
