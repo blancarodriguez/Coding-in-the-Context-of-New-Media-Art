@@ -1,4 +1,4 @@
-# code-based art
+# Coding-in-the-Context-of-New-Media-Art
 
 ## Week 2: Responsive drawing in Processing 
 
