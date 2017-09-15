@@ -1,4 +1,4 @@
-# Code-Based-Art
+# Coding-in-the-context-of-New-Media-Art
 
 Hi There! 
 
