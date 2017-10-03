@@ -6,6 +6,7 @@
 2. Go around the room and students introduce themselves. (10 mins)
 3. Show course structure on Github, show students how to sign up, talk about practical info for the course materials. (15 mins)
 http://markdown-guide.readthedocs.io/en/latest/
+
 4. Overview of inspiring artists, talk about conceptual art in the digital space. (15 mins) 
 5. Ten minute break (10 mins)
 6. Introduction to the Processing software ([tutorial](https://www.raspberrypi.org/learning/introduction-to-processing/worksheet/) and experiments) (30 minutes)
