@@ -4,7 +4,7 @@
 
 1. What is Coding in the Context of New Media Art and why are we interested in it? What are we going to cover? How will it work? What is creative coding: Why code? (10 minutes)
 2. Go around the room and students introduce themselves. (10 mins)
-3. Show course structure on [Github](https://github.com), show students how to sign up, talk about practical info for the course materials. (15 mins) <br>
+3. Show course structure on [Github](https://github.com), show students how to sign up, talk about practical info for the course [materials](https://github.com/blancarodriguez/Coding-in-the-Context-of-New-Media-Art/blob/master/materials.md). (15 mins) <br>
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
 4. Overview of inspiring artists, talk about conceptual art in the digital space. (15 mins) 
