@@ -16,7 +16,7 @@ Here is a concise overview https://schoolofdata.org/2013/11/18/web-apis-for-non-
 
 1. Visit https://apps.twitter.com/ and login with your twitter username and password
 2. Click on the ‘Create new app’ button at the top right
-3. Fill out the form that follows – you can use temporary values (like “Coding-in-New-Media-Art test app”) for the first three fields.
+3. Fill out the form that follows – you can use temporary values (like “Coding-in-New-Media-Art test app”) for the first two fields.Fill out the third field with an URL http://www.ccsf.edu/en/educational-programs/continuing-education/Fall17/Art/listofclasses2/Coding.html
 4. Once you’ve agreed to the developer terms, you’ll arrive at the back end of your Twitter app. Note the Consumer Key and Consumer Secret (you will use these in your Processing sketch you log into Twitter)
 5. Click the button to generate access token and token secret. Note these down too (or just leave this page open).
 
