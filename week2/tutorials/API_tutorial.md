@@ -23,7 +23,7 @@ Here is a concise overview https://schoolofdata.org/2013/11/18/web-apis-for-non-
 ### 2. Install the Twitter 4J library in Processing. 
 ##### How do I do that? 
 
-1. Download the file twitter4j.zip from the examples folder for this class: https://github.com/lizzybrooks/code-based-art/tree/master/week2/examples/twitterprojects. Drag the zip file into your Processing libraries directory: Documents-->Processing-->Libraries. Unzip the file. 
+1. Download the file twitter4j.zip from the examples folder for this class: https://github.com/blancarodriguez/Coding-in-the-Context-of-New-Media-Art/tree/Fall-2017/week2/examples/twitterprojects. Drag the zip file into your Processing libraries directory: Documents-->Processing-->Libraries. Unzip the file. 
 2. It's possible that at the time you are using this (especially if it's a long time after March 2017), Twitter4J will have a new version. Check http://twitter4j.org/en/index.html#download to see if version 4.0.4 is still current. If not, download the latest version, and follow this tutorial http://saglamdeniz.com/blog/?p=124 to rename the files.
 3. Why do I need to rename the files? Twitter4J is designed to work with Java. Processing requires a slightly different file structure. No big deal.
 
