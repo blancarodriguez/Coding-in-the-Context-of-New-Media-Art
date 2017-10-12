@@ -45,7 +45,7 @@ you are using a library, i.e. instructions that someone else wrote for making a 
 
 ### 4. Log into Twitter from your sketch.
 ###### Remember those keys and secrets? 
-1. Download or copy the sketch Twitter Example 1 https://github.com/lizzybrooks/code-based-art/tree/master/week2/examples/twitterprojects
+1. Download or copy the sketch Twitter Example 1 https://github.com/blancarodriguez/Coding-in-the-Context-of-New-Media-Art/tree/Fall-2017/week2/examples/twitterprojects
 2. Put your keys and secrets into the sketch: 
 <br>
 <img src="https://github.com/lizzybrooks/code-based-art/blob/master/week2/tutorials/images/twitter2.png" width="500px" />
