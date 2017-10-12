@@ -69,7 +69,7 @@ This gets a bit deeper into the theory of object-oriented programming. You can r
 
 A try/catch statement helps when you're working with an outside entity that you can't control. Literally, you are saying, try getting all these tweets, but if twitter is broken, return the catch statement and tell me so, instead of breaking the sketch. More on try/catch [here](https://processing.org/reference/try.html)
 
-4. There are infinite projects that you can make now that you have access to Twitter's API! The five examples in the Twitterprojects folder in this week's syllabus will get you started making some basic drawings: https://github.com/lizzybrooks/code-based-art/tree/master/week2/examples/twitterprojects. For other crazy stuff, check the documentation at Twitter4J http://twitter4j.org/en/code-examples.html
+4. There are infinite projects that you can make now that you have access to Twitter's API! The five examples in the Twitterprojects folder in this week's syllabus will get you started making some basic drawings: https://github.com/blancarodriguez/Coding-in-the-Context-of-New-Media-Art/tree/Fall-2017/week2/examples/twitterprojects. For other crazy stuff, check the documentation at Twitter4J http://twitter4j.org/en/code-examples.html
 
 
 
