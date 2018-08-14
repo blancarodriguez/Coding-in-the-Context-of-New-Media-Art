@@ -13,6 +13,7 @@
 
 ## Artists
 * [Ariel Guzik](https://vimeo.com/user8136071)
+* [Fernando Palma](https://www.moma.org/calendar/exhibitions/4963)
 * [Ken Rinaldo](http://www.kenrinaldo.com)
 * [Nick Yulman](http://nysoundworks.org/songcabinet/)
 * [Ben Schwartz](http://www.benschwartz.co/wikileaks-archive-project)
