@@ -2,7 +2,7 @@
 
 ## Week 1: Drawing in Processing
 
-1. Why are you interested in this class? what is creative coding: Why code? 
+1. What is coding in the context of New Media Art? Why coding? 
 What are we going to cover? How will it work? (10 minutes)
 2. Go around the room and students introduce themselves. (10 mins)
 3. Show course structure on [Github](https://github.com), show students how to sign up, talk about practical info for the course [materials](https://github.com/blancarodriguez/Coding-in-the-Context-of-New-Media-Art/blob/master/materials.md). (15 mins) [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
